@@ -1,3 +1,10 @@
+<?php
+
+    require_once "Book.php";
+    echo "ini file index.php";
+
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 <head>
